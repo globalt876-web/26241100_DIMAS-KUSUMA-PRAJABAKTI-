@@ -1,0 +1,13 @@
+Masukan Nama: Dimas Kusuma
+Masukan NIM: 26241100
+Program Studi: PTI
+2 digit nim: 100
+==========output=========
+Nama: Dimas Kusuma
+NIM: 26241100
+Program Studi: PTI
+Dua Digit Terakhir NIM: 100
+Tipe data Nama: <class 'str'>
+Tipe data NIM: <class 'int'>
+Tipe data Program Studi: <class 'str'>
+Tipe data Dua Digit Terakhir NIM: <class 'int'>
