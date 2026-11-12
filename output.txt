@@ -1,0 +1,12 @@
+2 digit terakhir NIM: 00
+Digit terakhir NIM: 0
+Angka pertama: 0
+Angka kedua: 1
+--- Hasil 7 Operasi ---
+penjumlahan : 1
+pengurangan : -1
+perkalian : 0
+pembagian : 0.0
+floor division : 0
+modulus : 0
+perpangkatan : 0
